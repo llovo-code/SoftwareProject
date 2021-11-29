@@ -89,7 +89,7 @@ namespace Powertronic.Views
             this.gunaButton1.ForeColor = System.Drawing.Color.Black;
             this.gunaButton1.Image = ((System.Drawing.Image)(resources.GetObject("gunaButton1.Image")));
             this.gunaButton1.ImageSize = new System.Drawing.Size(30, 20);
-            this.gunaButton1.Location = new System.Drawing.Point(360, 219);
+            this.gunaButton1.Location = new System.Drawing.Point(118, 113);
             this.gunaButton1.Name = "gunaButton1";
             this.gunaButton1.OnHoverBaseColor = System.Drawing.Color.Red;
             this.gunaButton1.OnHoverBorderColor = System.Drawing.Color.Black;
