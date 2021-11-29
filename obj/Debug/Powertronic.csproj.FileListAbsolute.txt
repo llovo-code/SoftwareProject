@@ -1,0 +1,17 @@
+E:\UNI\6 SEMESTRE\ING SOFTWARE\Poyecto de Curso\Powertronic\bin\Debug\Powertronic.exe.config
+E:\UNI\6 SEMESTRE\ING SOFTWARE\Poyecto de Curso\Powertronic\bin\Debug\Powertronic.exe
+E:\UNI\6 SEMESTRE\ING SOFTWARE\Poyecto de Curso\Powertronic\bin\Debug\Powertronic.pdb
+E:\UNI\6 SEMESTRE\ING SOFTWARE\Poyecto de Curso\Powertronic\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\UNI\6 SEMESTRE\ING SOFTWARE\Poyecto de Curso\Powertronic\bin\Debug\Guna.UI.dll
+E:\UNI\6 SEMESTRE\ING SOFTWARE\Poyecto de Curso\Powertronic\bin\Debug\Bunifu.Core.dll
+E:\UNI\6 SEMESTRE\ING SOFTWARE\Poyecto de Curso\Powertronic\bin\Debug\Guna.UI.pdb
+E:\UNI\6 SEMESTRE\ING SOFTWARE\Poyecto de Curso\Powertronic\obj\Debug\Powertronic.csproj.AssemblyReference.cache
+E:\UNI\6 SEMESTRE\ING SOFTWARE\Poyecto de Curso\Powertronic\obj\Debug\Powertronic.Form1.resources
+E:\UNI\6 SEMESTRE\ING SOFTWARE\Poyecto de Curso\Powertronic\obj\Debug\Powertronic.Properties.Resources.resources
+E:\UNI\6 SEMESTRE\ING SOFTWARE\Poyecto de Curso\Powertronic\obj\Debug\Powertronic.Views.LoginForm.resources
+E:\UNI\6 SEMESTRE\ING SOFTWARE\Poyecto de Curso\Powertronic\obj\Debug\Powertronic.csproj.GenerateResource.cache
+E:\UNI\6 SEMESTRE\ING SOFTWARE\Poyecto de Curso\Powertronic\obj\Debug\Powertronic.csproj.CoreCompileInputs.cache
+E:\UNI\6 SEMESTRE\ING SOFTWARE\Poyecto de Curso\Powertronic\obj\Debug\Powertronic.csproj.CopyComplete
+E:\UNI\6 SEMESTRE\ING SOFTWARE\Poyecto de Curso\Powertronic\obj\Debug\Powertronic.exe
+E:\UNI\6 SEMESTRE\ING SOFTWARE\Poyecto de Curso\Powertronic\obj\Debug\Powertronic.pdb
+E:\UNI\6 SEMESTRE\ING SOFTWARE\Poyecto de Curso\Powertronic\obj\Debug\Powertronic.Views.SalesForm.resources
