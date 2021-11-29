@@ -15,3 +15,19 @@ E:\UNI\6 SEMESTRE\ING SOFTWARE\Poyecto de Curso\Powertronic\obj\Debug\Powertroni
 E:\UNI\6 SEMESTRE\ING SOFTWARE\Poyecto de Curso\Powertronic\obj\Debug\Powertronic.exe
 E:\UNI\6 SEMESTRE\ING SOFTWARE\Poyecto de Curso\Powertronic\obj\Debug\Powertronic.pdb
 E:\UNI\6 SEMESTRE\ING SOFTWARE\Poyecto de Curso\Powertronic\obj\Debug\Powertronic.Views.SalesForm.resources
+C:\Users\HP\Documents\GitHub\SoftwareProject\bin\Debug\Powertronic.exe.config
+C:\Users\HP\Documents\GitHub\SoftwareProject\bin\Debug\Powertronic.exe
+C:\Users\HP\Documents\GitHub\SoftwareProject\bin\Debug\Powertronic.pdb
+C:\Users\HP\Documents\GitHub\SoftwareProject\bin\Debug\Guna.UI.pdb
+C:\Users\HP\Documents\GitHub\SoftwareProject\obj\Debug\Powertronic.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\SoftwareProject\obj\Debug\Powertronic.Form1.resources
+C:\Users\HP\Documents\GitHub\SoftwareProject\obj\Debug\Powertronic.Properties.Resources.resources
+C:\Users\HP\Documents\GitHub\SoftwareProject\obj\Debug\Powertronic.Views.LoginForm.resources
+C:\Users\HP\Documents\GitHub\SoftwareProject\obj\Debug\Powertronic.Views.SalesForm.resources
+C:\Users\HP\Documents\GitHub\SoftwareProject\obj\Debug\Powertronic.csproj.GenerateResource.cache
+C:\Users\HP\Documents\GitHub\SoftwareProject\obj\Debug\Powertronic.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\SoftwareProject\obj\Debug\Powertronic.exe
+C:\Users\HP\Documents\GitHub\SoftwareProject\obj\Debug\Powertronic.pdb
+C:\Users\HP\Documents\GitHub\SoftwareProject\obj\Debug\Powertronic.Views.Pantalla.resources
+C:\Users\HP\Documents\GitHub\SoftwareProject\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\HP\Documents\GitHub\SoftwareProject\obj\Debug\Powertronic.csproj.CopyComplete
