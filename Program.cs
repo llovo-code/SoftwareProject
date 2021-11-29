@@ -18,7 +18,7 @@ namespace Powertronic
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new SalesForm());
-            Application.Run(new LoginForm());
+          //  Application.Run(new LoginForm());
         }
     }
 }
